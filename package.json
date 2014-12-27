@@ -1,0 +1,26 @@
+{
+  "name": "slacktrigger",
+  "version": "1.0.3",
+  "description": "A tiny node module which facilitates the construction of trigger based slack bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvaiya/slacktrigger"
+  },
+  "author": "Raheman Vaiya",
+  "license": "GPL",
+  "keywords": [
+    "slack",
+    "bot",
+    "slackbot"
+  ],
+  "dependencies": {
+    "entities": "^1.1.1",
+    "express": "^4.10.6",
+    "q": "^1.1.2",
+    "superagent": "^0.21.0"
+  }
+}
